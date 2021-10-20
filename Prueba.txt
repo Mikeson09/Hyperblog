@@ -1,6 +1,6 @@
 Este es la prueba para git.
 
-Que empiece el juego.
+Que empiece el juego y motivate por favor.
 
 Va avanzando el git.
 
