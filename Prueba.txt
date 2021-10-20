@@ -5,3 +5,5 @@ Que empiece el juego.
 Va avanzando el git.
 
 Hasta el momento, nada ha peligrado en el sistema.
+
+Es muy interesante esto de Git, demasiado completo y completo. Me gustaria seguir aprendiendo.
